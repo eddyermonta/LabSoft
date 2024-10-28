@@ -1,0 +1,71 @@
+# Binaries
+bin/
+Migrations/
+obj/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Configuration files
+appsettings.json
+appsettings.*.json
+
+# Secrets
+secrets.json
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NPM packages
+node_modules/
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Mac
+*.DS_Store
+
+# Linux
+*~
+
+# Windows
+*.db
+
+bfg.jar
